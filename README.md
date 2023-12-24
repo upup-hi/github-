@@ -11,3 +11,6 @@ springAll:
 
 hello 算法: 
 > https://github.com/krahets/hello-algo/releases
+
+基于项目的学习：
+> https://github.com/practical-tutorials/project-based-learning
